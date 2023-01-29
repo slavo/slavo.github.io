@@ -1,4 +1,4 @@
-baseURL = 'https://www.slavo.me'
+baseURL = 'https://.slavo.me'
 languageCode = 'en-us'
 title = 'Slavo Ingilizov'
 theme = 'hugo-flex-slavo'
