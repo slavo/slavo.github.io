@@ -1,4 +1,4 @@
-baseURL = 'http://slavoingilizov.com/'
+baseURL = 'https://slavo.github.io'
 languageCode = 'en-us'
 title = 'Slavo Ingilizov'
 theme = 'hugo-flex-slavo'
