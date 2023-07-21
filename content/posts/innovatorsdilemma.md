@@ -2,8 +2,10 @@
 title: "The Innovator's Dilemma - Book Review"
 date: 2023-07-17T13:12:27+01:00
 draft: false
-tags: ['books']
+tags: ['books', 'test1', 'test2', 'reallylongnameforatag']
 ---
+
+![Innovator's Dilemma Cover](/innovators-dilemma-cover.jpg)
 
 This is the best book I have read about disruption. The biggest takeaway for me was that disruption of incumbent businesses is natural and inevitable. The reason disruption happens is that existing businesses have structural problems they cannot overcome. Those problems come naturally with scale. A big company over time has accumulated operational knowledge which helps it stay in the market. This accumulation and the incetives it creates for the existing leadership get in the way of innovation. No matter how much the incumbents want to change, they are just not able to do so within the constraings of the same business.
 
