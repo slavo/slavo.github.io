@@ -2,7 +2,7 @@
 title: "The Innovator's Dilemma - Book Review"
 date: 2023-07-17T13:12:27+01:00
 draft: false
-tags: ['books', 'test1', 'test2', 'reallylongnameforatag']
+tags: ['books']
 ---
 
 ![Innovator's Dilemma Cover](/innovators-dilemma-cover.jpg)
