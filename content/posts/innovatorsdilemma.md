@@ -1,7 +1,7 @@
 ---
 title: "The Innovator's Dilemma - Book Review"
 date: 2023-07-17T13:12:27+01:00
-draft: false
+draft: true
 tags: ['books']
 ---
 
