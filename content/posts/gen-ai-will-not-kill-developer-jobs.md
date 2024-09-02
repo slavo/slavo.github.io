@@ -2,6 +2,7 @@
 title: "Generative AI Will Not Kill Developer Jobs"
 date: 2024-09-02T14:49:20+01:00
 draft: false
+tags: ['ai']
 ---
 
 Large language models have taken the world by storm. By now, it's pretty clear that they are capable of more than originally expected, both by the public as well as their creators. Software developers in particular have been surprised by how good these LLM-based tools are at writing code, and [even entire applications]({{< relref "ai-developer" >}}). With this success of AI comes the argument that it will kill jobs. Like cars and computers did in their day, it raises the ghost of the fear of growing unemployment. Is this time different?
