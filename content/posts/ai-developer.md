@@ -5,7 +5,7 @@ draft: false
 tags: ['coding', 'ai']
 ---
 
-A couple of years ago I spent some time to learn Python basics. I had spent enough time with Python the language, but not the community, tooling and libraries. I wanted to complete a project so I could see what developing with python *feels* like. It took me few weekends to get a project running - using FastAPI, SQLite, SQLalchemy, and NextJS for the front-end. In the end, I had a web application, with a UI, a RESTful API, a data model, ability to store that in a database, support basic migrations, and using Docker to deploy the whole thing in containers. I didn't pace myself as the goal was learning rather than speed, and it took me a few weekends to complete.
+A couple of years ago I spent some time to learn Python basics. I had spent enough time with Python the language, but not the community, tooling and libraries. I wanted to complete a project so I could see what developing with python *feels* like. I created an application - using FastAPI, SQLite, SQLalchemy, and NextJS for the front-end. In the end, I had a complete app, with a UI, a RESTful API, a data model, ability to store that in a database, support basic migrations, and using Docker to deploy the whole thing in containers. I didn't pace myself as the goal was learning rather than speed, and it took me a few weekends to complete.
 
 Today, I did all of that in 15 minutes. I did it using [Cursor](https://www.cursor.com/) - the recently released AI editor which uses a large language model to do the coding for you. I didn't write a single line of code.
 
