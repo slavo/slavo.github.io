@@ -1,6 +1,6 @@
 # Personal website
 
-This repo contains the code for the website hosted at slavo.me. 
+This repo contains the code for the website hosted at www.techliberal.com. 
 
 ## Local setup
 

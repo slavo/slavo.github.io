@@ -1,5 +1,5 @@
-baseURL = 'https://www.slavo.me'
+baseURL = 'https://www.techliberal.com'
 languageCode = 'en-us'
-title = 'Slavo Ingilizov'
+title = 'Tech Liberal - A Personal Site'
 theme = 'hugo-flex-slavo'
 googleAnalytics = "G-0GRB4ZN2CN"
