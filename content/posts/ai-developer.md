@@ -15,13 +15,13 @@ Cursor is an IDE. It's a fork of VS Code (which in itself is a great editor). Th
 
 One, it generates entire folder structures and applications, rather than just auto-completing what you write. I think this is the first in the industry and is a game changer. For many people new to coding, half the effort and confusion is in setting up the right files, folder structure and congfiguration. That's hard when you don't know what you're doing. Cursor automatically does that for you. 
 
-![Cursor - starting prompt](/Cursor-first-prompt.png)
+![Cursor - starting prompt](/images/Cursor-first-prompt.png)
 
 Second, Cursor was able to debug, diagnose and fix problems encountered during the process. The initial application didn't run automatically and there were some mistakes in the code. But after asking it why and giving it an error message, the LLM was able to correctly diagnose the problem and offer a solution. This happened multiple times through my session - once to fix a CORS issue, other times to deal with some NextJS-specific rendering convention. Once the code writing was done, I even asked the editor to pre-fill some sample data in the DB so I can see how the UI looks without having to do that myself. Not only did it do that, it suggested using SqlAlchemy's migration capabilities, so you don't have to do that multiple times and the data is pre-seeded only if empty. This stuff is non-trivial.
 
-![Cursor debugging](/Cursor-debugging.png)
-![Cursor fixing a CORS issue](/Cursor-CORS.png)
-![Cursor data pre-seeding](/Cursor-db-seeding.png)
+![Cursor debugging](/images/Cursor-debugging.png)
+![Cursor fixing a CORS issue](/images/Cursor-CORS.png)
+![Cursor data pre-seeding](/images/Cursor-db-seeding.png)
 
 All of this goes way beyond just predicting the next line of code and suggesting it. I think we're at the start of a revolution in how we create software. Does this mean software developer jobs disappear tomorrow? No, I don't think so, but that's a topic for another post. I just think it will enable people who have no idea how to code to write entire apps themselves. Cursor won't create and maintain enterprise-grade applications by itself, but it will fulfil the needs of the majority of hobby projects, or non-technical product people who just want to experiment and test how something works with customers.
 
