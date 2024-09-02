@@ -2,7 +2,7 @@
 title: "The AI Developer Is Here"
 date: 2024-08-31T14:01:51+01:00
 draft: false
-tags: ['coding']
+tags: ['coding', 'ai']
 ---
 
 A couple of years ago I spent some time to learn Python basics. I had spent enough time with Python the language, but not the community, tooling and libraries. I wanted to complete a project so I could see what developing with python *feels* like. It took me few weekends to get a project running - using FastAPI, SQLite, SQLalchemy, and NextJS for the front-end. In the end, I had a web application, with a UI, a RESTful API, a data model, ability to store that in a database, support basic migrations, and using Docker to deploy the whole thing in containers. I didn't pace myself as the goal was learning rather than speed, and it took me a few weekends to complete.
