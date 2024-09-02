@@ -25,6 +25,6 @@ Second, Cursor was able to debug, diagnose and fix problems encountered during t
 
 All of this goes way beyond just predicting the next line of code. I think we're at the start of a revolution in how we create software. Does this mean software developer jobs disappear tomorrow? No, I don't think so[^1]. I just think it will enable people who have no idea how to code to write entire apps themselves. Cursor won't create and maintain enterprise-grade applications by itself, but it will fulfil the needs of the majority of hobby projects. It will enable product managers to test how things work with customers quickly.
 
-From todya, I plan to start using Cursor as the default for any new hobby project. Given this is barely the first version, I can't wait to see how it will evolve and what new things it will enable for software engineers.
+I plan to start using Cursor as the default for any new hobby project. Given this is barely the first version, I can't wait to see how it will evolve and what new things it will enable for software engineers. I wouldn't be surprised if it entirely transforms the IDE as a concept. 
 
 [^1]: I subsequently wrote another post about this: [Gen AI Will Not Kill Developer Jobs]({{< ref "/posts/gen-ai-will-not-kill-developer-jobs" >}} )
